@@ -1,0 +1,37 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+header{
+  text-align: center;
+}
+
+h2 {
+  border-bottom: 2px solid #333333;
+}
+
+body {
+  background-color: #ffe5e5;
+  color: #000000;
+  font-family: "Lucida Sans Unicode","Lucida Grande",sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+}
+
+figure {
+background-color: #ffffff;
+border: 1px solid #ff5c5c;
+padding: 25px;
+margin: 20px;
+text-align: center;
+}
+
+figcaption {
+font-style: italic; 
+}
+
+h3 {
+  text-align: center;
+}
